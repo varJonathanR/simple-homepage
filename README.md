@@ -6,7 +6,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/aa382dc8-105f-4f1b-b6e3-4f361bb2efe9/deploy-status)](https://app.netlify.com/sites/simple-homepage-varjonathanr/deploys)
 
-[DEMO](https://simple-homepage-varjonathanr.netlify.app/) | [SOLUTION](https://devchallenges.io/solution/2031) | [REPO](https://github.com/varJonathanR/simple-homepage)
+[DEMO](https://simple-homepage-varjonathanr.netlify.app/) | [SOLUTION](https://devchallenges.io/solution/2078) | [REPO](https://github.com/varJonathanR/simple-homepage)
 
 This project was uploaded as a submission for [Simple Homepage](https://devchallenges.io/challenge/33) on [devChallenges.io](https://devchallenges.io/).
 
@@ -14,6 +14,7 @@ This project was uploaded as a submission for [Simple Homepage](https://devchall
 
 - HTML5
 - CSS3
+- JavaScript
 
 ## Contact
 
