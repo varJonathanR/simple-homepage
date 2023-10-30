@@ -4,7 +4,7 @@
 
 ![Simple Homepage preview](https://github.com/varJonathanR/simple-homepage/blob/main/src/assets/simple-homepage_preview.png)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/aa382dc8-105f-4f1b-b6e3-4f361bb2efe9/deploy-status)](https://app.netlify.com/sites/simple-homepage-varjonathanr/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e40e2090-51f8-46b0-9f5a-a6215642eecc/deploy-status)](https://app.netlify.com/sites/simple-homepage-varjonathanr/deploys)
 
 [DEMO](https://simple-homepage-varjonathanr.netlify.app/) | [SOLUTION](https://devchallenges.io/solution/2078) | [REPO](https://github.com/varJonathanR/simple-homepage)
 
